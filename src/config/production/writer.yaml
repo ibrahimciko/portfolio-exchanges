@@ -1,0 +1,11 @@
+type: parquet_s3 # or 'parquet_local', 'parquet_s3', 'time_series_db_aws'
+buffer_size: 10000
+parquet_s3:
+  partition_cols:
+   - exchange
+timeseries_db:
+  connection_string: "my_connection_string"
+parquet_local:
+  data_directory: "data"
+  partition_cols:
+    - exchange

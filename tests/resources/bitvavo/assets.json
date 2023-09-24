@@ -1,0 +1,3212 @@
+[
+  {
+    "symbol": "1INCH",
+    "name": "1inch",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "12",
+    "withdrawalMinAmount": "12",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AAVE",
+    "name": "Aave",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.059",
+    "withdrawalMinAmount": "0.059",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ACH",
+    "name": "Alchemy Pay",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "210",
+    "withdrawalMinAmount": "210",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 15,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ADX",
+    "name": "Ambire AdEx",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "27",
+    "withdrawalMinAmount": "27",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AE",
+    "name": "Aeternity",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 60,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.1",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset has been delisted from Bitvavo. Only withdrawals are possible."
+  },
+  {
+    "symbol": "AION",
+    "name": "Aion",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 100,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.1",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "Trading on the AION-EUR market has stopped as of February 24th at 16:00 CET."
+  },
+  {
+    "symbol": "AKRO",
+    "name": "Akropolis",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "520",
+    "withdrawalMinAmount": "520",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 8,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.1",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ALICE",
+    "name": "MyNeighborAlice",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "4",
+    "withdrawalMinAmount": "4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ALPHA",
+    "name": "Alpha Finance Lab",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "36",
+    "withdrawalMinAmount": "36",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AMP",
+    "name": "Amp",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1400",
+    "withdrawalMinAmount": "1400",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ANKR",
+    "name": "Ankr",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "150",
+    "withdrawalMinAmount": "150",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ANT",
+    "name": "Aragon",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.84",
+    "withdrawalMinAmount": "0.84",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "APE",
+    "name": "ApeCoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2.1",
+    "withdrawalMinAmount": "2.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "APT",
+    "name": "Aptos",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "APT"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AR",
+    "name": "Arweave",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "AR"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0.25",
+    "withdrawalMinAmount": "0.25",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ARB"
+    ],
+    "message": "Arbitrum is available for trading and withdrawals. Deposits will be made available at a later date."
+  },
+  {
+    "symbol": "ARK",
+    "name": "Ark",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 51,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "0.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ARK"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ATA",
+    "name": "Automata Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "46",
+    "withdrawalMinAmount": "46",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ATOM"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AUDIO",
+    "name": "Audius",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "22",
+    "withdrawalMinAmount": "22",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.008",
+    "withdrawalMinAmount": "0.008",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "AVAX-C"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "AXS",
+    "name": "Axie Infinity",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.62",
+    "withdrawalMinAmount": "0.62",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BAL",
+    "name": "Balancer",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.87",
+    "withdrawalMinAmount": "0.87",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BAND",
+    "name": "Band Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3.1",
+    "withdrawalMinAmount": "3.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BAT",
+    "name": "Basic Attention Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "19",
+    "withdrawalMinAmount": "19",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 15,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.0001",
+    "withdrawalMinAmount": "0.00001",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BLUR",
+    "name": "Blur",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "13",
+    "withdrawalMinAmount": "13",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BNB",
+    "name": "Binance Coin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 35,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.001",
+    "withdrawalMinAmount": "0.001",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "BSC"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BNT",
+    "name": "Bancor",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "10",
+    "withdrawalMinAmount": "10",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BOND",
+    "name": "BarnBridge",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.3",
+    "withdrawalMinAmount": "1.3",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BSV",
+    "name": "Bitcoin SV",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 150,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.0001",
+    "withdrawalMinAmount": "0.0001",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset has been delisted. Bitvavo will convert remaining Bitcoin SV balances to EUR on April 12th, 2023."
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 3,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.00003",
+    "withdrawalMinAmount": "0.00001",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "BTT",
+    "name": "BitTorrent",
+    "decimals": 0,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "BTT"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "CAKE",
+    "name": "PancakeSwap",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "BSC"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "CELO",
+    "name": "Celo",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "CELO"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "CELR",
+    "name": "Celer Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "270",
+    "withdrawalMinAmount": "270",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CHR",
+    "name": "Chromia",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "35",
+    "withdrawalMinAmount": "35",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CHZ",
+    "name": "Chiliz",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "49",
+    "withdrawalMinAmount": "49",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CLV",
+    "name": "Clover Finance",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "110",
+    "withdrawalMinAmount": "110",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CMT",
+    "name": "CyberMiles",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 10,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "1",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "COMP",
+    "name": "Compound",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.059",
+    "withdrawalMinAmount": "0.059",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "COTI",
+    "name": "COTI",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "81",
+    "withdrawalMinAmount": "81",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CRO",
+    "name": "Cronos",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "63",
+    "withdrawalMinAmount": "63",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "6.8",
+    "withdrawalMinAmount": "6.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CTSI",
+    "name": "Cartesi",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "26",
+    "withdrawalMinAmount": "26",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CVC",
+    "name": "Civic",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "44",
+    "withdrawalMinAmount": "44",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "CVX",
+    "name": "Convex Finance",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.2",
+    "withdrawalMinAmount": "1.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3.8",
+    "withdrawalMinAmount": "3.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.002",
+    "withdrawalMinAmount": "0.002",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DATA",
+    "name": "Streamr",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "160",
+    "withdrawalMinAmount": "160",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DCR",
+    "name": "Decred",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 6,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.005",
+    "withdrawalMinAmount": "0.005",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DENT",
+    "name": "Dent",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "5000",
+    "withdrawalMinAmount": "5000",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DGB",
+    "name": "DigiByte",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DIA",
+    "name": "DIA",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "16",
+    "withdrawalMinAmount": "16",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DNT",
+    "name": "district0x",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "140",
+    "withdrawalMinAmount": "140",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 40,
+    "depositStatus": "OK",
+    "withdrawalFee": "4",
+    "withdrawalMinAmount": "4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Dogecoin"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.08",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DUSK",
+    "name": "Dusk Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "30",
+    "withdrawalMinAmount": "30",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "DYDX",
+    "name": "dYdX",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.9",
+    "withdrawalMinAmount": "1.9",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "EGLD",
+    "name": "MultiversX",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.001",
+    "withdrawalMinAmount": "0.001",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "EGLD"
+    ],
+    "message": "Please note that only withdrawals through the MultiversX Network (ex Elrond Network) are supported, and that withdrawing to any other network may result in the loss of funds."
+  },
+  {
+    "symbol": "ELF",
+    "name": "Aelf",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "14",
+    "withdrawalMinAmount": "14",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ENJ",
+    "name": "Enjin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "13",
+    "withdrawalMinAmount": "13",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ENS",
+    "name": "Ethereum Name Service",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.39",
+    "withdrawalMinAmount": "0.39",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "EOS",
+    "name": "EOS",
+    "decimals": 4,
+    "depositFee": "0",
+    "depositConfirmations": 400,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 14400,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.003",
+    "withdrawalMinAmount": "0.003",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.002",
+    "withdrawalMinAmount": "0.002",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "EUR",
+    "name": "Euro",
+    "decimals": 2,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "SEPA"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "EUROC",
+    "name": "Euro Coin",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3.4",
+    "withdrawalMinAmount": "3.4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "FET",
+    "name": "Fetch.ai",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "18",
+    "withdrawalMinAmount": "18",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "FLOKI",
+    "name": "FLOKI",
+    "decimals": 0,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "170000",
+    "withdrawalMinAmount": "170000",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "FLOW",
+    "name": "Flow",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "FLOW"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "FORTH",
+    "name": "FORTH Governance Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.3",
+    "withdrawalMinAmount": "1.3",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "FTM",
+    "name": "Fantom",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "16",
+    "withdrawalMinAmount": "16",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "FTT",
+    "name": "FTX Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "2.8",
+    "withdrawalMinAmount": "2.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": "* FTT tokens are issued by FTX. FTX has filed for Chapter 11 bankruptcy. Deposits of FTT tokens are halted. This asset is extremely volatile. Caution is advised."
+  },
+  {
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.64",
+    "withdrawalMinAmount": "0.64",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GALA",
+    "name": "Gala",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "160",
+    "withdrawalMinAmount": "160",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GAS",
+    "name": "Gas",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 5,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "NEO"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GHST",
+    "name": "Aavegotchi",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "4",
+    "withdrawalMinAmount": "4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GLM",
+    "name": "Golem",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "18",
+    "withdrawalMinAmount": "18",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GLMR",
+    "name": "Glimmer",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "GLMR"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "GMT",
+    "name": "STEPN",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "18",
+    "withdrawalMinAmount": "18",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GNO",
+    "name": "Gnosis",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.033",
+    "withdrawalMinAmount": "0.033",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "GRT",
+    "name": "The Graph",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "34",
+    "withdrawalMinAmount": "34",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.8",
+    "withdrawalMinAmount": "0.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "HBAR"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "HNT",
+    "name": "Helium",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "HNT"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "HOT",
+    "name": "Holo",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3000",
+    "withdrawalMinAmount": "3000",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "ICP"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "ICX",
+    "name": "ICON",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 3,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.02",
+    "withdrawalMinAmount": "0.02",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ILV",
+    "name": "Illuvium",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.092",
+    "withdrawalMinAmount": "0.092",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "IMX",
+    "name": "Immutable X",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "4.8",
+    "withdrawalMinAmount": "4.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "INJ",
+    "name": "Injective Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.47",
+    "withdrawalMinAmount": "0.47",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "IOST",
+    "name": "IOST",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 100,
+    "depositStatus": "OK",
+    "withdrawalFee": "1",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "JST",
+    "name": "JUST",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "TRX"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "KEEP",
+    "name": "Keep Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "21",
+    "withdrawalMinAmount": "21",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": "This asset is no longer available for trading and deposits, and will be converted to Threshold token (T) on February 16th. You are still able to withdraw this asset until 15th of February."
+  },
+  {
+    "symbol": "KLAY",
+    "name": "Klaytn",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "KLAY"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "KMD",
+    "name": "Komodo",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 60,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.02",
+    "withdrawalMinAmount": "0.02",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "KNC",
+    "name": "Kyber Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "4.7",
+    "withdrawalMinAmount": "4.7",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "KSM",
+    "name": "Kusama",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.000333333",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "KSM"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LDO",
+    "name": "Lido DAO",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2",
+    "withdrawalMinAmount": "2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LINA",
+    "name": "Linear",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "280",
+    "withdrawalMinAmount": "280",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.49",
+    "withdrawalMinAmount": "0.49",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LIT",
+    "name": "Litentry",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "5.6",
+    "withdrawalMinAmount": "5.6",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LOOM",
+    "name": "Loom Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "79",
+    "withdrawalMinAmount": "79",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LPT",
+    "name": "Livepeer",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.94",
+    "withdrawalMinAmount": "0.94",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LRC",
+    "name": "Loopring",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "18",
+    "withdrawalMinAmount": "18",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LSK",
+    "name": "Lisk",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 300,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.5",
+    "withdrawalMinAmount": "0.5",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 10,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.001",
+    "withdrawalMinAmount": "0.001",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LTO",
+    "name": "LTO Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "59",
+    "withdrawalMinAmount": "59",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LUNA",
+    "name": "Terra Classic",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "100",
+    "withdrawalMinAmount": "100",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "LUNA"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "LUNA2",
+    "name": "Terra 2.0",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.05",
+    "withdrawalMinAmount": "0.05",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "LUNA2"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MANA",
+    "name": "Decentraland",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "9.8",
+    "withdrawalMinAmount": "9.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MASK",
+    "name": "Mask Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.1",
+    "withdrawalMinAmount": "1.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MATIC",
+    "name": "Polygon",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "5.4",
+    "withdrawalMinAmount": "5.4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MIOTA",
+    "name": "IOTA",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "1",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MIR",
+    "name": "Mirror Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "130",
+    "withdrawalMinAmount": "130",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MKR",
+    "name": "Maker",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.0029",
+    "withdrawalMinAmount": "0.0029",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MLN",
+    "name": "Enzyme",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.21",
+    "withdrawalMinAmount": "0.21",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MOVR",
+    "name": "Moonriver",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.003",
+    "withdrawalMinAmount": "0.003",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "MOVR"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "MTL",
+    "name": "Metal",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2.6",
+    "withdrawalMinAmount": "2.6",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "NANO",
+    "name": "Nano",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.00025",
+    "withdrawalMinAmount": "0.00025",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "NAS",
+    "name": "Nebulas",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 50,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.1",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset has been delisted."
+  },
+  {
+    "symbol": "NEAR",
+    "name": "Near Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "NEAR"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "NEO",
+    "name": "NEO",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 5,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "Please note that only NEO Legacy asset is supported, and that depositing or withdrawing via NEO N3 network would result in the loss of funds."
+  },
+  {
+    "symbol": "NKN",
+    "name": "NKN",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "40",
+    "withdrawalMinAmount": "40",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "NMR",
+    "name": "Numeraire",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.28",
+    "withdrawalMinAmount": "0.28",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "NPXS",
+    "name": "Pundi X",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "540",
+    "withdrawalMinAmount": "540",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "NU",
+    "name": "NuCypher",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "24",
+    "withdrawalMinAmount": "24",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": "This asset is no longer available for trading and deposits, and will be converted to Threshold token (T) on February 16th. You are still able to withdraw this asset until 15th of February."
+  },
+  {
+    "symbol": "NULS",
+    "name": "NULS",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 40,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.02",
+    "withdrawalMinAmount": "0.02",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "OCEAN",
+    "name": "Ocean Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "11",
+    "withdrawalMinAmount": "11",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "OGN",
+    "name": "Origin Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "35",
+    "withdrawalMinAmount": "35",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "OMG",
+    "name": "OMG Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "6.7",
+    "withdrawalMinAmount": "6.7",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ONE",
+    "name": "Harmony",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "ONE"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "ONG",
+    "name": "Ontology Gas",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 10,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ONT"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ONT",
+    "name": "Ontology",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 10,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "OP",
+    "name": "Optimism",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 100,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0.23",
+    "withdrawalMinAmount": "0.23",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "OP"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "OXT",
+    "name": "Orchid",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "69",
+    "withdrawalMinAmount": "69",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 0,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3100000",
+    "withdrawalMinAmount": "3100000",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "PERP",
+    "name": "Perpetual Protocol",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "7.3",
+    "withdrawalMinAmount": "7.3",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "PHA",
+    "name": "Phala Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "40",
+    "withdrawalMinAmount": "40",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "POLY",
+    "name": "Polymath",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "18",
+    "withdrawalMinAmount": "18",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": "The swap of Polymath (POLY) to Polymesh (POLYX) mainnet occurred on 8th of December. Following the swap, only Polymesh (POLYX) on mainnet is supported."
+  },
+  {
+    "symbol": "POLYX",
+    "name": "Polymesh",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0.0001",
+    "withdrawalMinAmount": "0.0002",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "POND",
+    "name": "Marlin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "450",
+    "withdrawalMinAmount": "450",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "POWR",
+    "name": "Powerledger",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "23",
+    "withdrawalMinAmount": "23",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "PUNDIX",
+    "name": "Pundi X",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "9.5",
+    "withdrawalMinAmount": "9.5",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "QNT",
+    "name": "Quant",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.035",
+    "withdrawalMinAmount": "0.035",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.003",
+    "withdrawalMinAmount": "0.003",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RDD",
+    "name": "ReddCoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset has been delisted from Bitvavo. Only withdrawals are possible."
+  },
+  {
+    "symbol": "REEF",
+    "name": "Reef",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2600",
+    "withdrawalMinAmount": "2600",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "REN",
+    "name": "Ren",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "64",
+    "withdrawalMinAmount": "64",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "REP",
+    "name": "Augur",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2.4",
+    "withdrawalMinAmount": "2.4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": "Please note that only the new version of REP is supported (REPv2), and that depositing or withdrawing REPv1 would result in the loss of funds."
+  },
+  {
+    "symbol": "REQ",
+    "name": "Request Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "50",
+    "withdrawalMinAmount": "50",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RLC",
+    "name": "iExec RLC",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3.2",
+    "withdrawalMinAmount": "3.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RLY",
+    "name": "Rally",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "270",
+    "withdrawalMinAmount": "270",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RNDR",
+    "name": "Render Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2.1",
+    "withdrawalMinAmount": "2.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ROSE",
+    "name": "Oasis Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ROSE"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RPL",
+    "name": "Rocket Pool",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.13",
+    "withdrawalMinAmount": "0.13",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RSR",
+    "name": "Reserve Rights",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2000",
+    "withdrawalMinAmount": "2000",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "RUNE",
+    "name": "THORChain",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "RUNE"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "RVN",
+    "name": "Ravencoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 60,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.1",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SAND",
+    "name": "The Sandbox",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "8.9",
+    "withdrawalMinAmount": "8.9",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SHIB",
+    "name": "Shiba Inu",
+    "decimals": 2,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "450000",
+    "withdrawalMinAmount": "450000",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SKL",
+    "name": "SKALE Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "140",
+    "withdrawalMinAmount": "140",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SLP",
+    "name": "Smooth Love Potion",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2400",
+    "withdrawalMinAmount": "2400",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SNT",
+    "name": "Status",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "150",
+    "withdrawalMinAmount": "150",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SNX",
+    "name": "Synthetix",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.5",
+    "withdrawalMinAmount": "1.5",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SOL",
+    "name": "Solana",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SRM",
+    "name": "Serum",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "42",
+    "withdrawalMinAmount": "42",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "STEEM",
+    "name": "Steem",
+    "decimals": 3,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "STMX",
+    "name": "StormX",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "590",
+    "withdrawalMinAmount": "590",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": "Be aware that you can only deposit new STMX tokens, and that the deposits of old STMX tokens are not supported. If you want to withdraw STMX to another exchange, please make sure this exchange supports the new STMX token."
+  },
+  {
+    "symbol": "STORJ",
+    "name": "Storj",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "13",
+    "withdrawalMinAmount": "13",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "STORM",
+    "name": "Storm",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "1",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "STRAT",
+    "name": "Stratis",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 60,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "0.2",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "STRAX",
+    "name": "Stratis",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 60,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "0.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "STX",
+    "name": "Stacks",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "STX"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "SUB",
+    "name": "Substratum",
+    "decimals": 2,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "1",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SUI",
+    "name": "Sui",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.02",
+    "withdrawalMinAmount": "0.02",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "SUI"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SUPER",
+    "name": "SuperVerse",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "40",
+    "withdrawalMinAmount": "40",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SUSHI",
+    "name": "SushiSwap",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "5.2",
+    "withdrawalMinAmount": "5.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "SXP",
+    "name": "Solar",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0.004",
+    "withdrawalMinAmount": "0.004",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "SYS",
+    "name": "Syscoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "SYS"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "T",
+    "name": "Threshold",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "160",
+    "withdrawalMinAmount": "160",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "THETA",
+    "name": "Theta Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "THETA"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "TOMO",
+    "name": "TomoChain",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2.8",
+    "withdrawalMinAmount": "2.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "TRB",
+    "name": "Tellor",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.31",
+    "withdrawalMinAmount": "0.31",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "TRX",
+    "name": "Tron",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "UMA",
+    "name": "UMA",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "2.4",
+    "withdrawalMinAmount": "2.4",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.59",
+    "withdrawalMinAmount": "0.59",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3.8",
+    "withdrawalMinAmount": "3.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "3.8",
+    "withdrawalMinAmount": "3.8",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "UTK",
+    "name": "Utrust",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "60",
+    "withdrawalMinAmount": "60",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "VET",
+    "name": "VeChain Thor",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "0.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": "\"Please note that ERC-20 token is not supported and that only deposits and withdrawals through the VeChain network are supported for this asset. Depositing and withdrawing to any other network may result in the loss of funds.\""
+  },
+  {
+    "symbol": "VGX",
+    "name": "Voyager Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "23",
+    "withdrawalMinAmount": "23",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": "*Due to market circumstances, we advise you to trade with caution."
+  },
+  {
+    "symbol": "VTC",
+    "name": "Vertcoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 900,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0.02",
+    "withdrawalMinAmount": "0.02",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "VTHO",
+    "name": "VeThor Token",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 20,
+    "depositStatus": "OK",
+    "withdrawalFee": "1",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "VET"
+    ],
+    "message": "\"Please note that ERC-20 token is not supported and that only deposits and withdrawals through the VeChain network are supported for this asset. Depositing and withdrawing to any other network may result in the loss of funds.\""
+  },
+  {
+    "symbol": "WAVES",
+    "name": "Waves",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 10,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.001",
+    "withdrawalMinAmount": "0.001",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "WIN",
+    "name": "WINkLink",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "MAINTENANCE",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "0",
+    "withdrawalStatus": "MAINTENANCE",
+    "networks": [
+      "TRX"
+    ],
+    "message": "This asset is currently in trading only mode. Asset deposits and withdrawals will be enabled at a later date."
+  },
+  {
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1.6",
+    "withdrawalMinAmount": "1.6",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "WOO",
+    "name": "WOO Network",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "19",
+    "withdrawalMinAmount": "19",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "WTC",
+    "name": "Waltonchain",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 30,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.01",
+    "withdrawalMinAmount": "0.01",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XEM",
+    "name": "NEM",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 10,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "0.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XLM",
+    "name": "Stellar",
+    "decimals": 7,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XMR",
+    "name": "Monero",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.0001",
+    "withdrawalMinAmount": "0.0001",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XRP",
+    "name": "Ripple",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 1,
+    "depositStatus": "OK",
+    "withdrawalFee": "0",
+    "withdrawalMinAmount": "1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XTZ",
+    "name": "Tezos",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 30,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.2",
+    "withdrawalMinAmount": "0.2",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XVG",
+    "name": "Verge",
+    "decimals": 6,
+    "depositFee": "0",
+    "depositConfirmations": 100,
+    "depositStatus": "OK",
+    "withdrawalFee": "5",
+    "withdrawalMinAmount": "5",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "XYO",
+    "name": "XYO",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "1100",
+    "withdrawalMinAmount": "1100",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "YFI",
+    "name": "Yearn Finance",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.00056",
+    "withdrawalMinAmount": "0.00056",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "YFII",
+    "name": "DFI Money",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.0051",
+    "withdrawalMinAmount": "0.0051",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 0,
+    "depositStatus": "DELISTED",
+    "withdrawalFee": "0.005",
+    "withdrawalMinAmount": "0.005",
+    "withdrawalStatus": "DELISTED",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ZIL",
+    "name": "Zilliqa",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 5,
+    "depositStatus": "OK",
+    "withdrawalFee": "0.1",
+    "withdrawalMinAmount": "0.1",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "Mainnet"
+    ],
+    "message": ""
+  },
+  {
+    "symbol": "ZRX",
+    "name": "0x",
+    "decimals": 8,
+    "depositFee": "0",
+    "depositConfirmations": 64,
+    "depositStatus": "OK",
+    "withdrawalFee": "18",
+    "withdrawalMinAmount": "18",
+    "withdrawalStatus": "OK",
+    "networks": [
+      "ETH"
+    ],
+    "message": ""
+  }
+]

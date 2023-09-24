@@ -1,0 +1,3 @@
+s3:
+  bucket: 'ibrahimcikotest'  # Or any other development-specific bucket name
+  prefix: 'data/prod'  # Or any development-specific prefix

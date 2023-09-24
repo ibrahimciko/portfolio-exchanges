@@ -1,0 +1,12 @@
+#### Bitvavo API #### 
+# Exchange Info
+# This endpoint provides information on the current status of the markets
+GET https://api.bitvavo.com/v2/markets
+
+# assets This endpoint provides information on the current status of the assets
+### 
+GET https://api.bitvavo.com/v2/assets
+
+# orderbook This endpoint provides information on orderbooks
+### 
+GET https://api.bitvavo.com/v2/BTC-EUR/book?depth=10

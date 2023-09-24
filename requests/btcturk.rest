@@ -1,0 +1,21 @@
+ #### BTCTURK API ####
+
+ # Exchange Info
+# This endpoint provides the latest information for all markets on the exchange.
+GET https://api.btcturk.com/api/v2/server/exchangeinfo HTTP/1.1
+
+###
+# Orderbook
+# This endpoint provides the orderbook
+# BTC_USDT
+GET https://api.btcturk.com/api/v2/orderbook?pairSymbol=BTC_USDT HTTP/1.1
+###
+# ETH_USDT
+GET https://api.btcturk.com/api/v2/orderbook?pairSymbol=ETH_USDT HTTP/1.1
+###
+# BTC_TRY
+GET https://api.btcturk.com/api/v2/orderbook?pairSymbol=BTC_TRY HTTP/1.1
+###
+# BTC_TRY WITH LIMIT 5
+GET https://api.btcturk.com/api/v2/orderbook?pairSymbol=BTC_TRY&limit=5 HTTP/1.1
+

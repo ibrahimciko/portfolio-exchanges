@@ -1,0 +1,113 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'CloudFormation to setup EC2 instance for data collection with S3 access.'
+
+Mappings:
+  Constants:
+    Values:
+      RepositoryName: "exchanges"
+      KeyPair: "my-test-instance"
+      ImageId: "ami-05a3d90809a151346"  
+
+Parameters:
+  S3BucketName:
+    Description: 'S3 Bucket Name.'
+    Type: 'String'
+  Environment:
+    Description: 'Application environment - development or production.'
+    Type: 'String'
+    AllowedValues:
+      - 'development'
+      - 'production'
+    Default: 'development'
+  WriterType:
+    Description: 'Type of writer to use.'
+    Type: 'String'
+    Default: ''
+  BufferSize:
+    Description: 'Buffer size for the writer.'
+    Type: 'Number'
+    Default: '0'
+  SleepDuration:
+    Description: 'Sleep duration for the data collector.'
+    Type: 'Number'
+    Default: '0'
+
+Conditions:
+  IsWriterTypeProvided: !Not [!Equals [!Ref WriterType, ""]]
+  IsBufferSizeProvided: !Not [!Equals [!Ref BufferSize, ""]]
+  IsSleepDurationProvided: !Not [!Equals [!Ref SleepDuration, ""]]
+
+Resources:
+  MySecurityGroup:
+      Type: 'AWS::EC2::SecurityGroup'
+      Properties:
+        GroupDescription: 'Enable SSH access'
+        SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: '22'
+          ToPort: '22'
+          CidrIp: 0.0.0.0/0 # Open to the world. Adjust to your needs.
+  EC2InstanceProfile:
+    Type: 'AWS::IAM::InstanceProfile'
+    Properties:
+      Path: "/"
+      Roles:
+      - !Ref 'EC2S3AccessRole'
+
+  EC2S3AccessRole:
+    Type: 'AWS::IAM::Role'
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: 'Allow'
+            Principal:
+              Service: 'ec2.amazonaws.com'
+            Action: 'sts:AssumeRole'
+      Path: "/"
+      Policies:
+        - PolicyName: 'S3AccessPolicy'
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: 'Allow'
+                Action: 
+                  - 's3:GetObject'
+                  - 's3:PutObject'
+                  - 's3:ListBucket'
+                Resource: 
+                - !Sub 'arn:aws:s3:::${S3BucketName}/*'
+                - !Sub 'arn:aws:s3:::${S3BucketName}'
+
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      SecurityGroups:
+      - !Ref MySecurityGroup
+      InstanceType: t2.micro
+      ImageId: !FindInMap [Constants, Values, ImageId]
+      KeyName:
+       !FindInMap ["Constants", "Values", "KeyPair"] # Use your EC2 key pair name
+      IamInstanceProfile: !Ref EC2InstanceProfile
+      UserData:
+        Fn::Base64:
+          !Sub
+            - |
+              #!/bin/bash
+              # Create a directory in the home directory of the EC2 user to store your code
+              mkdir -p /home/ec2-user/${RepositoryName}
+              # ownership
+              sudo chown -R ec2-user:ec2-user /home/ec2-user/${RepositoryName}/
+              sudo chmod -R 755 /home/ec2-user/${RepositoryName}
+              # Sync the latest code from S3 to this directory
+              aws s3 sync s3://${S3BucketName}/${RepositoryName} /home/ec2-user/${RepositoryName}
+              # Navigate to this directory
+              cd /home/ec2-user/${RepositoryName}
+              # Make the script executable and then run it
+              chmod +x init.sh
+              ./init.sh ${Environment}
+
+            - RepositoryName: !FindInMap ["Constants", "Values", "RepositoryName"]
+              WriterType: !Ref WriterType
+              BufferSize: !Ref BufferSize
+              SleepDuration: !Ref SleepDuration

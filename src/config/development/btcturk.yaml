@@ -1,0 +1,18 @@
+# mostly static attributes
+name: "btcturk"
+exchange_type: "crypto"
+commission: 0.0018
+pair_sep: "_"
+exchange_fiat: "TRY"
+
+# endpoints
+base_endpoint: "https://api.btcturk.com"
+exchange_info_url: "/api/v2/server/exchangeinfo"
+
+# authentication-required endpoints
+balance_url: "/api/v1/users/balances"
+order_url: "/api/v1/order"
+
+# trade-info endpoints
+orderbook_url: /api/v2/orderbook
+orderbook_limit: 20

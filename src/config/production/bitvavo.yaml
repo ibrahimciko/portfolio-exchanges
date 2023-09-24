@@ -1,0 +1,14 @@
+# bitvavo provides its own python wrapper 
+# we don't know the details
+
+# mostly static attributes
+name: "bitvavo"
+exchange_type: "crypto"
+commission: 0.0018
+pair_sep: "_"
+exchange_fiat: "EUR"
+
+# endpoints
+base_endpoint: "https://api.bitvavo.com/v2"
+exchange_info_url: "markets"
+assets_info_url: "assets"

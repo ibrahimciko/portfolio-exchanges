@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "exchanges"
+version = "0.1.0"
+description = "implementing ecrypto exchanges with a consistent API"
+authors = ["Ibrahim C, Kadircan C"]
+license = "None"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.31.0"
+pyyaml = "^6.0.1"
+python-dotenv = "^1.0.0"
+httpx = "^0.24.1"
+python-bitvavo-api = "^1.2.2"
+pandas = "^2.0.3"
+boto3 = "^1.28.21"
+pyarrow = "^12.0.1"
+
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+pytest-mock = "^3.11.1"
+cfn-lint = "^0.79.6"
+pydot = "^1.4.2"
+ipykernel = "^6.25.1"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version" # version location
+branch = "main"                             # branch to make releases of
+changelog_file = "CHANGELOG.md"             # changelog file
+build_command = "poetry build"              # build dists
+dist_path = "dist/"                         # where to put dists
+upload_to_release = true                    # auto-create GitHub release
+upload_to_pypi = false                      # don't auto-upload to PyPI
+remove_dist = false                         # don't remove dists
+patch_without_tag = true                    # patch release by default
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

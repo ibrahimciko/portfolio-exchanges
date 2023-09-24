@@ -1,0 +1,13 @@
+collection_mode: "websocket"
+pairs:
+  bitvavo:
+    - "BTC-EUR"
+    - "BTC-EUR"
+    - "XRP-EUR"
+event_types:
+  bitvavo:
+    - "orderbook"
+    - "trades"
+    - "ticker"
+limit: 30
+sleep_duration: 1
